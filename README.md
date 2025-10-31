@@ -9,7 +9,7 @@ Focus Areas: Generative AI • Responsible & Ethical AI • Civic Technology •
 This portfolio showcases applied projects at the intersection of **Artificial Intelligence, Public Interest Technology, and Social Innovation**.  
 Each project reflects a focus on **using generative and analytical AI to address real-world civic, healthcare, and community challenges**—aligned with the Burnes Center’s mission to leverage technology for societal good.  
 
-**Featured Project:** *CivicFlow AI* — a demonstration prototype developed for the **AI for Impact Program** submission.
+**Featured Project:** *CivicFlow AI* A demonstration prototype developed for the **AI for Impact Program** submission.
 
 ---
 
