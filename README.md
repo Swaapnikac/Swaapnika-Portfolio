@@ -1,15 +1,15 @@
-# Artificial Intelligence & Software Engineering Portfolio
+# Swaapnika Portfolio
 ### by [Swaapnika Cherukuru](https://github.com/Swaapnikac)
 Master of Science | Northeastern University  
-Specialization in Artificial Intelligence, Responsible Technology, and Civic Innovation  
+Focus Areas: Generative AI • Responsible & Ethical AI • Civic Technology • Human-Centered Systems  
 
 ---
 
-## Overview
-This portfolio presents a collection of projects that demonstrate technical expertise in **Generative AI, Computer Vision, Civic Technology, and Full-Stack Development**.  
-Each repository highlights a commitment to solving real-world challenges through applied research, ethical AI design, and data-driven innovation.  
+## Professional Overview
+This portfolio showcases applied projects at the intersection of **Artificial Intelligence, Public Interest Technology, and Social Innovation**.  
+Each project reflects a focus on **using generative and analytical AI to address real-world civic, healthcare, and community challenges**—aligned with the Burnes Center’s mission to leverage technology for societal good.  
 
-**Note:** The project **CivicFlow AI** is featured at the top as the **demonstration prototype for the AI for Impact memo**.
+**Featured Project:** *CivicFlow AI* — a demonstration prototype developed for the **AI for Impact Program** submission.
 
 ---
 
@@ -17,101 +17,102 @@ Each repository highlights a commitment to solving real-world challenges through
 
 ### [CivicFlow AI – Generative AI for Public Sector Impact](https://github.com/Swaapnikac/CivicFlow-AI)
 **Demo Project for Submitted AI for Impact Memo**  
-Developed a generative AI civic assistant that automates government and nonprofit workflows through intelligent policy summarization, sentiment analysis, and stakeholder insight generation.  
-Implements large language model reasoning to improve civic transparency, accessibility, and decision-making support.  
-Focus areas include document summarization, data synthesis, and social-impact analytics.
+Developed a generative AI civic assistant designed to streamline workflows for government and nonprofit organizations.  
+Automates policy summarization, sentiment analysis, and stakeholder insight generation to improve civic transparency and responsiveness.  
+Demonstrates LLM-driven document synthesis, prompt engineering, and responsible automation principles for public-sector innovation.
 
 ---
 
-## Artificial Intelligence and Machine Learning
+## Artificial Intelligence and Responsible Systems
 
 ### [DeepPneumo – Pediatric Chest X-Ray Classification with CNN & Grad-CAM](https://github.com/Swaapnikac/DeepPneumo-Pediatric-Chest-X-Ray-Classification-with-CNN-Grad-CAM)
-Built a convolutional neural network (ResNet architecture) for pneumonia detection using pediatric chest X-rays.  
-Integrated Grad-CAM for visual interpretability, class balance correction, and evaluation of model ethics in clinical AI.
+Built a ResNet-based CNN to detect pneumonia from pediatric chest X-rays with Grad-CAM visualizations for interpretability.  
+Focuses on medical ethics, fairness, and explainable AI to ensure trustworthy healthcare applications.
 
 ### [CNNs for Pathology & RNNs for Clinical Time Series](https://github.com/Swaapnikac/CNNs-for-Pathology-RNNs-for-Clinical-Time-Series)
-Implemented hybrid deep-learning pipelines combining CNNs for imaging data and RNNs for sequential clinical metrics.  
-Explores multimodal medical predictions using temporal dependencies and spatial feature extraction.
-
-### [LifePath-AI – Personal Decision Assistant](https://github.com/Swaapnikac/LifePath-AI-Personal-Decision-Assistant)
-Created an AI-driven personal assistant that uses contextual reasoning and reflection modeling to provide personalized life and productivity recommendations.  
-Integrates large language models for adaptive decision guidance across wellness, career, and behavioral domains.
-
-### [PolicySynth Lite – EquityAI](https://github.com/Swaapnikac/PolicySynth-Lite-EquityAI)
-Developed a lightweight AI policy simulator that models equitable decision outcomes using large language models.  
-Includes demographic fairness evaluation, sentiment mapping, and impact forecasting for social policymaking.
+Developed a hybrid deep-learning pipeline combining CNNs for medical imaging and RNNs for time-series patient data.  
+Demonstrates multimodal data fusion for healthcare diagnostics and early anomaly detection.
 
 ### [FAIR Lens – Responsible AI Audit and Transparency Dashboard](https://github.com/Swaapnikac/FAIR-Lens-Responsible-AI-Audit-Transparency-Dashboard)
-Designed a responsible AI auditing dashboard to assess fairness, accountability, interpretability, and robustness (FAIR) across ML systems.  
-Provides bias metrics, visual reports, and transparency scoring for ethical governance of AI applications.
+Created an interactive dashboard to assess model fairness, accountability, interpretability, and robustness (FAIR).  
+Provides bias metrics, transparency scores, and interpretive visualizations supporting ethical AI governance.
+
+### [PolicySynth Lite – EquityAI](https://github.com/Swaapnikac/PolicySynth-Lite-EquityAI)
+Developed a lightweight policy simulation environment that models equitable outcomes using LLM-based scenario analysis.  
+Integrates fairness metrics and sentiment mapping to support inclusive policymaking and social equity.
+
+### [LifePath-AI – Personal Decision Assistant](https://github.com/Swaapnikac/LifePath-AI-Personal-Decision-Assistant)
+Built a personal AI reasoning system that offers contextual, reflective recommendations for career and life choices.  
+Combines human-centered design with generative reasoning to promote well-being and personal development.
 
 ---
 
-## Generative AI, Branding, and Civic Innovation
-
-### [JungAI – Brand Archetype Detection using Generative AI](https://github.com/Swaapnikac/JungAI-Brand-Archetype-Detection-using-Generative-AI)
-Built an end-to-end generative AI workflow using n8n, OpenAI API, Slack webhooks, and Google Search integration to identify brand archetypes such as Rebel, Explorer, and Caregiver.  
-Aggregates and analyzes multimodal data (YouTube, Reddit, web sources) to generate archetype profiles and brand narratives.
+## Generative AI and Civic Innovation
 
 ### [PulsePolis – AI Civic Sentiment and Action Intelligence](https://github.com/Swaapnikac/PulsePolis-AI-Civic-Sentiment-Action-Intelligence)
-Developed a natural-language processing framework that analyzes citizen sentiment around civic issues and policies.  
-Converts unstructured public data into actionable intelligence for data-informed decision making.
+Developed an NLP-driven framework to analyze citizen sentiment toward civic issues and government initiatives.  
+Transforms unstructured public discourse into actionable civic intelligence dashboards.
+
+### [JungAI – Brand Archetype Detection using Generative AI](https://github.com/Swaapnikac/JungAI-Brand-Archetype-Detection-using-Generative-AI)
+Created a multi-agent generative AI pipeline using n8n, OpenAI API, and Google Search to classify brand archetypes such as Rebel, Caregiver, and Explorer.  
+Demonstrates creative AI applications in behavioral analysis, narrative design, and marketing intelligence.
 
 ---
 
-## Computer Vision and Real-Time Systems
+## Computer Vision and Applied Systems
 
 ### [Real-Time Lane Detection System](https://github.com/Swaapnikac/Real-Time-Lane-Detection-System)
-Engineered a real-time computer vision system using OpenCV and PyTorch for lane detection from single-camera input.  
-Incorporates advanced image preprocessing (Canny edges, perspective transforms) and deep learning for accurate lane identification under diverse road conditions.
+Implemented a computer vision model using OpenCV and PyTorch for real-time lane detection in dynamic driving conditions.  
+Applies geometric transformations and image segmentation to achieve adaptive and reliable performance.
 
 ---
 
-## Software Systems and Full-Stack Development
+## Software Engineering and Systems Design
 
 ### [Job Portal](https://github.com/Swaapnikac/Job-Portal)
-Full-stack web application using Node.js, Express, and MongoDB that enables job posting, candidate registration, and resume management.  
-Implements secure authentication, input validation, and password encryption with bcrypt and Multer.
-
-### [Interactive Web Utilities – jQuery Calculator and Asynchronous Stopwatch](https://github.com/Swaapnikac/Interactive-Web-Utilities-jQuery-Calculator-Async-Stopwatch)
-Created dynamic web tools demonstrating asynchronous JavaScript operations, event-driven design, and responsive interfaces.  
-Highlights understanding of front-end logic and modular UI development.
+Developed a secure recruitment management platform using Node.js, Express, and MongoDB.  
+Implements user authentication, file uploads, and RESTful APIs with bcrypt-based encryption and validation.
 
 ### [Interactive Student Records System](https://github.com/Swaapnikac/interactive-student-records-system)
-Java Swing application backed by MySQL for academic record management.  
-Implements MVC architecture, form validation, and secure CRUD operations with a user-friendly graphical interface.
+Built a Java Swing desktop application with MySQL integration to manage academic records.  
+Applies MVC architecture for scalability and structured user interactions.
+
+### [Interactive Web Utilities – jQuery Calculator and Asynchronous Stopwatch](https://github.com/Swaapnikac/Interactive-Web-Utilities-jQuery-Calculator-Async-Stopwatch)
+Developed interactive front-end utilities showcasing event-driven programming and asynchronous operations.  
+Highlights core understanding of JavaScript logic, responsiveness, and UI component design.
 
 ### [Food Redistribution and Empowerment System](https://github.com/Swaapnikac/Food-Redistribution-and-Empowerment-System)
-Developed a logistics optimization platform connecting food donors, NGOs, and volunteers to reduce waste and hunger.  
-Features route optimization, volunteer coordination, and impact metrics for sustainability reporting.
+Engineered a logistics optimization system connecting donors, NGOs, and volunteers to combat food waste.  
+Integrates data-driven decision support and sustainable logistics modeling for social good.
 
 ---
 
-## Community, Wellness, and Social Impact Projects
+## Community, Wellness, and Public Outreach
 
 ### [Mental Health Awareness Website](https://github.com/Swaapnikac/Mental-Health-Awareness-website)
-Designed an informational website promoting mental-health awareness and access to reliable educational resources.  
-Focuses on accessibility, content empathy, and community outreach.
+Designed a web platform to promote mental-health education through accessible and empathetic content delivery.  
+Focuses on user experience design and inclusive digital communication.
 
 ### [Fitness Tracker](https://github.com/Swaapnikac/Fitness-.git)
-Developed a fitness-tracking web app that enables users to monitor health goals, track habits, and visualize progress.  
-Incorporates interactive dashboards and personalized wellness insights.
+Developed a web-based health tracker offering analytics on workouts, nutrition, and daily progress.  
+Demonstrates data visualization and goal-oriented engagement design.
 
 ### [Connect – Community Engagement Platform](https://github.com/Swaapnikac/Connect-.git)
-Prototype of a peer-support and social-engagement platform designed to encourage positive digital interactions and community participation.  
-Focuses on inclusivity and mental-wellness-oriented user experience.
+Built a peer-support and social engagement prototype to encourage inclusive digital communities.  
+Applies principles of ethical UX, safety, and positive online interaction.
 
 ---
 
-## Technical Summary
+## Technical Competencies
 
 | Domain | Core Skills | Tools and Frameworks |
 |:--|:--|:--|
-| Artificial Intelligence | CNNs, RNNs, LLMs, Model Evaluation | PyTorch, TensorFlow, OpenAI API |
-| Generative and Civic AI | NLP, Policy Analytics, Workflow Automation | HuggingFace, n8n, Slack, Google Cloud |
-| Full-Stack Development | REST APIs, Authentication, Data Modeling | Node.js, Express, MongoDB, React |
-| Responsible AI | Fairness, Transparency, Interpretability | Python, Pandas, Matplotlib, Plotly |
-| Systems Engineering | Automation, Integration, Testing | GitHub, Postman, Streamlit, Flask |
+| Generative AI | LLM Orchestration, Prompt Design, AI Automation | OpenAI API, n8n, LangChain |
+| Machine Learning | CNNs, RNNs, Model Evaluation, Explainability | PyTorch, TensorFlow, Scikit-learn |
+| Civic Technology | NLP, Sentiment Analysis, Data Dashboards | HuggingFace, Streamlit, Plotly |
+| Full-Stack Development | REST APIs, Auth, CRUD Systems | Node.js, Express, MongoDB, React |
+| Responsible AI | Fairness, Transparency, Audit Metrics | Python, Pandas, Matplotlib |
+| Systems Integration | Automation, Data Engineering, Testing | Postman, GitHub, Google Cloud |
 
 ---
 
@@ -122,4 +123,6 @@ GitHub: [github.com/Swaapnikac](https://github.com/Swaapnikac)
 
 ---
 
-Each project in this portfolio reflects a commitment to using technology responsibly—bridging artificial intelligence, design, and social impact to build systems that are both innovative and ethical.
+**Statement:**  
+This portfolio represents a commitment to leveraging artificial intelligence as a tool for social progress.  
+Each project combines **technical innovation with civic responsibility**, reflecting the mission of building equitable, transparent, and impactful AI systems for the public good.
