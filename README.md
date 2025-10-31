@@ -1,6 +1,6 @@
-# AI & Software Engineering Portfolio
+# Artificial Intelligence & Software Engineering Portfolio
 ### by [Swaapnika Cherukuru](https://github.com/Swaapnikac)
-Master of Science in Information Systems | Northeastern University  
+Master of Science | Northeastern University  
 Specialization in Artificial Intelligence, Responsible Technology, and Civic Innovation  
 
 ---
