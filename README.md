@@ -117,8 +117,8 @@ Applies principles of ethical UX, safety, and positive online interaction.
 ---
 
 ## Contact
-Email: **swaapnika.cherukuru@northeastern.edu**  
-LinkedIn: [linkedin.com/in/swaapnika-cherukuru](https://www.linkedin.com/in/swaapnika-cherukuru)  
+Email: **swaapnika.cherukuru@northeastern.edu**  | swaapnic@gmail.com
+LinkedIn: [linkedin.com/in/swaapnika-cherukuru](https://www.linkedin.com/in/swaapnika-cherukuru-926990228/)  
 GitHub: [github.com/Swaapnikac](https://github.com/Swaapnikac)
 
 ---
